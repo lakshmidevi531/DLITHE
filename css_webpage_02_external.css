@@ -38,12 +38,12 @@ h1{
    height: 200px;
   }
   /* styling of navbar*/
-  .navbar {
+.navbar {
     overflow: hidden;
     background-color: #333;
     font-family: cursive;
   }
-  
+    
   .navbar a {
     float: left;
     font-size: 16px;
